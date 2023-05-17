@@ -7,6 +7,7 @@
   <img src=https://github.com/Jeova-1704/projeto-gerador-de-senhas/assets/127805808/25f2e690-5082-4e56-862d-012b725ee036</img>
   <img src=https://github.com/Jeova-1704/projeto-gerador-de-senhas/assets/127805808/0dd693e6-49f7-4518-8c8b-9efc382874aa</img>
 </div>
+  
 
 
 
